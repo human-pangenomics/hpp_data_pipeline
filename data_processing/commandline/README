@@ -1,0 +1,3 @@
+README
+sra_metadata.py     Format data for upload to SRA
+merge_metadata.py   SRA info (including some submitter metadata) and public bucket bam file locations.
